@@ -2,8 +2,9 @@
 
 .store-container {
   line-height:0;
-  margin: 50px auto;
+ 
   width: 50%;
+  
 }
 .stroke {
   stroke: #0170bb;
